@@ -3,6 +3,7 @@
 Es un proyecto para probar el widget NavigationRail
 
 El proyecto se puede descargar desde:
+https://github.com/pes89/Widget_NavigationRail.git
 
 
 ## Getting Started
